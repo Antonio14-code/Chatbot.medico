@@ -1,8 +1,6 @@
 📌 Proyecto de Reconocimiento Facial y Generación de Documentos
-Este proyecto combina visión por computadora y modelos generativos de IA para crear una solución completa de seguridad empresarial.
 
 🚀 Descripción
-
 La aplicación permite:
 - 📂 Subir imágenes y detectar rostros utilizando OpenCV.
 - 🤖 Generar automáticamente políticas de seguridad con un modelo de lenguaje de Google.
