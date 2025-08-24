@@ -32,6 +32,6 @@ La aplicación permite:
 📑 Ejemplos de uso
 - Interpretación de exámenes de sangre subidos por el usuario.
 - Responder preguntas como:
-1. "¿Qué tratamiento hacer con la Influenza A H1N1?"
-2. "¿Qué hacer si un niño de 5 años tiene dolor abdominal?"
-3. "¿Cuál es el tratamiento recomendado para alergias graves?"
+  * "¿Qué tratamiento hacer con la Influenza A H1N1?"
+  * "¿Qué hacer si un niño de 5 años tiene dolor abdominal?"
+  * "¿Cuál es el tratamiento recomendado para alergias graves?"
