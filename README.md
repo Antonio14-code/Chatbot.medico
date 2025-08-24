@@ -53,13 +53,6 @@ Configurar las claves de API en el entorno.
 Ejecutar el script principal para interactuar con la aplicación.
 
 📑 Resultados
-
-Políticas de seguridad en PDF listas para implementar en la empresa.
-
-Imágenes generadas por IA a partir de descripciones de texto.
-
-Detección automática de rostros para control de acceso biométrico.
-
-👨‍💻 Autor
-
-Proyecto desarrollado con fines educativos y de demostración de integración entre IA Generativa y Visión por Computadora.
+- Políticas de seguridad en PDF listas para implementar en la empresa.
+- Imágenes generadas por IA a partir de descripciones de texto.
+- Detección automática de rostros para control de acceso biométrico.
